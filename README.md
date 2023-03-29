@@ -49,7 +49,7 @@ Follow the steps below to install and set up the project:
    MAIL_HOST='smtp.ethereal.email' 
    MAIL_PORT=587 
    MAIL_USER='<username>' 
-   MAIL_PASS='<password>''
+   MAIL_PASS='<password>'
    ```
 
 7. Start the server by running the command:
