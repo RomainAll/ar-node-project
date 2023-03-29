@@ -60,6 +60,13 @@ Follow the steps below to install and set up the project:
 
 8. You can now access the API at http://localhost:3000/documentation.
 
+---
+**NOTE**
+
+To make your first user an admin, you can make the change directly in the database.
+
+---
+
 ## Usage
 
 The API provides the following endpoints:
